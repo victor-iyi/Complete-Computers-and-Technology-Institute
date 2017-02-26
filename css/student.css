@@ -1,0 +1,42 @@
+.profile-container{
+	width: 90%;
+	margin: 5px auto;
+}
+
+.student-page{
+	
+}
+
+.other-info{
+	
+	text-align: justify;
+}
+
+#profile-header{
+	color: #D22;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: Century Gothic;
+	text-shadow: rgba(110,110,100,.5) 3px 4px 3px;
+	font-weight: 600;
+}
+
+.student-info{
+	font-family: Century;
+	text-transform: capitalize;
+	color: #EE6666;
+	margin-right: 15px;
+}
+
+.student-page p{
+	margin: 0px;
+	text-align: justify;
+	color: #123456;
+	font-family: Tahoma;
+	font-size: 14px;
+}
+
+.other-info p{
+	text-align: justify;
+	font-size: 15px55;
+}

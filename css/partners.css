@@ -1,0 +1,23 @@
+.ui-widget-header{
+	background: #CCCCCC;
+	border: #d00;
+}
+
+.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited{
+	color: #EEE;
+	background-color: #d00;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-active .ui-tabs-anchor{
+	background-color: #EEE;
+	border: #EEE;
+	color: #d00;
+}
+
+#partners-image{
+	float: left;
+}
+
+.right-image{
+	float: right;
+}
